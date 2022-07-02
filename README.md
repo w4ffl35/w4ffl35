@@ -137,7 +137,7 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
         </td>
         <td>
           <h2>True FPS + Chaos Destruction</h2>
-<p>True First Person Perspective view (same technique as seen in Battlefield and Call of Duty) + Chaos destruction for an upcoming game</p>
+<p>True First Person Perspective view (same technique as seen in Battlefield and Call of Duty... I think) + Chaos destruction for an upcoming game</p>
 <a href="https://www.youtube.com/watch?v=f9v8ZL0Mlso"><img src="https://img.shields.io/badge/-VIDEO-red?style=for-the-badge" /></a>
           <h4>Tech:<br />C++ / UnrealEngine 4.26-Chaos</h4>
         </td>
