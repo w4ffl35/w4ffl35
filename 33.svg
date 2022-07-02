@@ -1,0 +1,32 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject width="100px" height="100px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        div {
+          font-family: arial, helvetica, sans-serif;
+        }
+
+        h1 {
+          margin: 0;
+	  text-align: center;
+          background-color: none;
+          animation: color-change 8s infinite;
+          font-size: 24px;
+	  margin: auto;
+        }
+
+        @keyframes color-change {
+          0% { color: #ff48c4; }
+          25% { color: #2bd1fc; }
+          50% { color: #f3ea5f; }
+          75% { color: #c04df9; }
+          100% { color: #ff3f3f; }
+        }
+      </style>
+      <h1>
+        a0174
+      </h1>
+    </div>
+  </foreignObject>
+</svg>
