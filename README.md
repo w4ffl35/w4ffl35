@@ -4,6 +4,8 @@
 
 ---
 
+![pic](https://user-images.githubusercontent.com/25737761/176987905-211272aa-14bb-490c-9b4b-56146a8545f5.png)
+
 HELLO. MY REAL NAME IS JOE BUT ON THIS PROGRAMMING WEBSITE I AM NAMED **_W4FFL35_**. 
 
 I HAVE BEEN INTERNETING FOR WHAT FEELS LIKE AN ETERNITY (30 YEARS) AND A GOOD PORTION OF THAT HAS BEEN AT A HIGHLY PROFESSIONAL LEVEL MAKING UNTOLD SUMS OF CASH FOR SMALL BUSINESS OWNERS AND MASSIVE CORPORATIONS ALIKE.
@@ -14,11 +16,13 @@ MAKES SENSE WHEN YOU THINK ABOUT IT.
 
 RECENTLY I HAVE DECIDED TO TAKE SOME TIME OFF AND PUT MAXIMUM EFFORT INTO CREATING VIDEO GAMES AND FUN APPS.
 
-LIFE IS SHORT, ENJOY EVERYTHING YOU DO AT ALL TIMES.
+LIFE IS SHORT, ENJOY EVERYTHING YOU DO AT ALL TIMES (THIS IS LITERALLY IMPOSSIBLE ADVICE BUT THIS IS THE INTERNET WHERE YOU'RE SUPPOSED TO SAY POSITIVE THINGS).
 
 ---
 
 The following is a small sampling of things I have created. I've made much more than this over the last 20 years, and will continue to make more.
+
+Most of the things I've created throughout the years have been under NDA.
 
 As I dig through old code and find fun projects that I've worked on I will add those here, as well as anything new I choose to produce.
 
