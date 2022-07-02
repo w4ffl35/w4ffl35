@@ -38,9 +38,9 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 </td>
 <td width="80%">
-<h2>AI_IMAGE_BOT</h2>          
+<h2>AI_IMAGE_BOT</h2>
 
-[https://twitter.com/AI_IMAGE_BOT](https://twitter.com/AI_IMAGE_BOT)
+![aiimagebot](https://user-images.githubusercontent.com/25737761/176987791-1028739f-b6c9-4f42-b3e4-3223c103fe13.png)
           
 This is a twitter bot that pays attention to trending tweets, generates relevant images using [min-dalle](https://github.com/kuprel/min-dalle),
 and then confidently tweets them out to the world where they can one day become the target of someone's outrage.
