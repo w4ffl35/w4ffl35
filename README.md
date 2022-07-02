@@ -100,7 +100,7 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
           <h2>Wild West Poker</h2>
           <h3>Rank 14 out of 115 in May - June 2017 CGAJam</h3>
           <h4>Art: <br />Krystal + Joe</a>
-          <h4>Programming, Sound, Menus, Controls: <br /><a href="https://github.com/Joe">Joe</a>
+          <h4>Programming, Sound, Menus, Controls: <br />Joe
           <h4>Tech:<br />C# / Unity3D</h4>
         <h4>Platforms</h4>
             <a href="https://capsizegames.itch.io/wild-west-poker#download"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
