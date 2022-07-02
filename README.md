@@ -98,7 +98,7 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
         </td>
         <td>
           <h2>Wild West Poker</h2>
-          <h3>Rank 14 out of 115 in May - June 2017 CGAJam</h3>
+          <h3>Rank 14 out of 115 in May - June 2017 CGAJam (2 week dev time)</h3>
           <h4>Art: <br />Krystal + Joe</a>
           <h4>Programming, Sound, Menus, Controls: <br /><a href="https://github.com/Joe">Joe</a>
           <h4>Tech:<br />C# / Unity3D</h4>
