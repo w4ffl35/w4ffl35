@@ -90,7 +90,7 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
 <table>
     <tr>
         <td width="30%">
-          [https://capsizegames.itch.io/wild-west-poker](<img src="images/thumbs/poker.png" />)
+          <img src="images/thumbs/poker.png" />
         </td>
         <td>
           <h2>Wild West Poker</h2>
