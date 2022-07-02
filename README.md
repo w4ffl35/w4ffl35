@@ -31,7 +31,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 <table>
     <tr>
-        <td width="20%">
+        <td width="30%">
 
 ![aiimagebot](https://user-images.githubusercontent.com/25737761/176987791-1028739f-b6c9-4f42-b3e4-3223c103fe13.png)
 
@@ -40,6 +40,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 <td width="80%">
 <h2>AI_IMAGE_BOT</h2>
 
+[https://twitter.com/AI_IMAGE_BOT](https://twitter.com/AI_IMAGE_BOT)
          
 This is a twitter bot that pays attention to trending tweets, generates relevant images using [min-dalle](https://github.com/kuprel/min-dalle),
 and then confidently tweets them out to the world where they can one day become the target of someone's outrage.
@@ -56,7 +57,7 @@ and then confidently tweets them out to the world where they can one day become 
 
 <table>
     <tr>
-        <td width="20%">
+        <td width="30%">
 
 ![img.png](img.png)
 
@@ -88,8 +89,8 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
 
 <table>
     <tr>
-        <td width="20%">
-          <a href="https://capsizegames.itch.io/wild-west-poker" align="left"><img src="images/thumbs/poker.png" /></a>
+        <td width="30%">
+          [https://capsizegames.itch.io/wild-west-poker](<img src="images/thumbs/poker.png" />)
         </td>
         <td>
           <h2>Wild West Poker</h2>
