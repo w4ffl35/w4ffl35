@@ -46,7 +46,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 [https://twitter.com/AI_IMAGE_BOT](https://twitter.com/AI_IMAGE_BOT)
          
-This is a twitter bot that pays attention to trending tweets, generates relevant images using [min-dalle](https://github.com/kuprel/min-dalle),
+This is a twitter bot that pays attention to trending tweets, generates relevant images using the Twitter API and the Dalle-mini model (thanks to [min-dalle](https://github.com/kuprel/min-dalle)),
 and then confidently tweets them out to the world where they can one day become the target of someone's outrage.
 
 </td>
