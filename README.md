@@ -33,7 +33,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 ---
 
 
-<table>
+<table width="100%">
     <tr>
         <td width="30%">
 
