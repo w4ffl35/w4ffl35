@@ -45,7 +45,8 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 [https://www.npmjs.com/package/js-ktc](https://www.npmjs.com/package/js-ktc)
          
-Keyword Transposition Cipher javascript library.
+Keyword Transposition Cipher javascript library. An extensible implementation of a basic Keyword Transposition Cipher, includeing Jest tests. This repository was included in the Github Arcitic Code Vault ![image](https://user-images.githubusercontent.com/25737761/179569560-23c90f8e-c8c2-45fd-bb36-5d1e945437e8.png)
+
 
 </td>
 </tr>
