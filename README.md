@@ -34,7 +34,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 
 <table width="100%">
-    <tr>
+    <tr width="100%">
         <td width="30%">
 
 ![jsktc](https://user-images.githubusercontent.com/25737761/179569187-e6c2e596-3eb1-49c6-88d9-8a25b31d45c5.png)
