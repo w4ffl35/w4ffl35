@@ -4,10 +4,6 @@
 
 ---
 
-![pic](https://user-images.githubusercontent.com/25737761/176987905-211272aa-14bb-490c-9b4b-56146a8545f5.png)
-
----
-
 The following is a small sampling of things I have created. I've made much more than this over the last 20 years, and will continue to make more.
 
 Most of the things I've created throughout the years have been under NDA.
