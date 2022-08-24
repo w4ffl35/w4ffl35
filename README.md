@@ -1,27 +1,25 @@
 ---
 
-<h3 align="center">💀 WELCOME TO MY INTERNET PROFILE 💀</h3>
+# Public portfolio
+
+This is a constantly changing list of things I have worked on over the years. 
+
+It is not a comprehensive list. Many of the projects I have worked on were under NDA and 
+are only relevant to future potential employers. These will be listed in a separate private portfolio.
 
 ---
 
-The following is a small sampling of things I have created. I've made much more than this over the last 20 years, and will continue to make more.
+<h2>Projects that have been released released</h2>
 
-Most of the things I've created throughout the years have been under NDA.
-
-As I dig through old code and find fun projects that I've worked on I will add those here, as well as anything new I choose to produce.
-
----
-
-<h3 align="center">💀 CURRENTLY IN THE WILD 💀</h3>
+This is a list of projects I have released over the years.
 
 ---
 
 <table width="100%">
     <tr width="100%">
         <td width="30%">
-        
-        ![maze](https://user-images.githubusercontent.com/25737761/186305038-feea4200-7140-4bbc-8f3e-0372c0a3a874.png)
 
+![jsktc](https://user-images.githubusercontent.com/25737761/186305038-feea4200-7140-4bbc-8f3e-0372c0a3a874.png)
 
 </td>
 <td width="80%">
@@ -45,10 +43,13 @@ Generate perfect mazes with Node using a growing tree algorithm.
 <td width="80%">
 <h2>JS-KTC</h2>
 
-[https://www.npmjs.com/package/js-ktc](NPM) [https://www.github.com/w4ffl35/js-ktc](Github)
+[NPM](https://www.npmjs.com/package/js-ktc) [github](https://www.github.com/w4ffl35/js-ktc)
          
-Keyword Transposition Cipher javascript library. An extensible implementation of a basic Keyword Transposition Cipher, including Jest tests. This repository was included in the [2020 Github Arcitic Code Vault](https://archiveprogram.github.com/). 
-<br /><img src="https://user-images.githubusercontent.com/25737761/179569560-23c90f8e-c8c2-45fd-bb36-5d1e945437e8.png" width="100px" />
+Keyword Transposition Cipher javascript library. An extensible implementation of a basic Keyword Transposition Cipher, including Jest tests. 
+
+This repository was included in the [2020 Github Arcitic Code Vault](https://archiveprogram.github.com/).
+
+<img style="vertical-align: top" src="https://user-images.githubusercontent.com/25737761/179569560-23c90f8e-c8c2-45fd-bb36-5d1e945437e8.png" width="50px" />
 
 
 </td>
@@ -65,9 +66,9 @@ Keyword Transposition Cipher javascript library. An extensible implementation of
 
 </td>
 <td width="80%">
-<h2>AI_IMAGE_BOT</h2>
+<h2>AI Image bot</h2>
 
-[https://twitter.com/AI_IMAGE_BOT](https://twitter.com/AI_IMAGE_BOT)
+[twitter](https://twitter.com/robo_pictures)
          
 This is a twitter bot that pays attention to trending tweets, generates relevant images using the Twitter API and the Dalle-mini model (thanks to [min-dalle](https://github.com/kuprel/min-dalle)),
 and then confidently tweets them out to the world where they can one day become the target of someone's outrage.
@@ -78,7 +79,8 @@ and then confidently tweets them out to the world where they can one day become 
 
 ---
 
-<h3 align="center">💀 CURRENTLY IN THE WORKS 💀</h3>
+<h2>The following projects are under active development</h2>
+
 
 ---
 
@@ -86,7 +88,7 @@ and then confidently tweets them out to the world where they can one day become 
     <tr>
         <td width="30%">
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 
 </td>
@@ -109,10 +111,11 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
 
 ---
 
-<h3 align="center">💀 SIDE PROJECTS, PROTOTYPES AND SHENANIGANS 💀</h3>
+<h2>Old projects</h2>
+
+These are projects that are currently inactive but may be of interest to viewers.
 
 ---
-
 
 <table>
     <tr>
@@ -121,7 +124,10 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
         </td>
         <td>
           <h2>Wild West Poker</h2>
-          <h3>Rank 14 out of 115 in May - June 2017 CGAJam</h3>
+		  <p>Released for the CGI game jam this game was developed in 2 weeks.</p>
+		  <p>I have continued to maintain it since its release and will be working on a new version this year.</p>
+		  <hr />
+          <p><strong>Rank 14 out of 115 in May - June 2017 CGAJam</strong></p>
           <h4>Art: <br />Krystal + Joe</a>
           <h4>Programming, Sound, Menus, Controls: <br />Joe
           <h4>Tech:<br />C# / Unity3D</h4>
@@ -177,80 +183,4 @@ This game will be released by my company, [Capsize Games](https://capsize.gg).
           <h4>Tech:<br />C# / Unity3D</h4>
         </td>
     </tr>
-</table>
-
----
-
-<h3 align="center">💚 SOME OF THE TECHNOLOGY I FREQUENT 💚</h3>
-
----
-
-<table>
-  <tr>
-    <th>
-      <h4>🎮 VIDEO GAMES 🎮</h4>
-    </th>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <h4>🕸️ WEB DEV 🕸️</h4>
-    </th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <h4>💻 MISC SOFTWARE 💻</h4>
-    </th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <h4>💻 OPERATING SYSTEMS 💻</h4>
-    </th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
-    </td>
-  </tr>
 </table>
