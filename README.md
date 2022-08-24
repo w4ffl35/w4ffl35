@@ -9,9 +9,9 @@ are only relevant to future potential employers. These will be listed in a separ
 
 ---
 
-<h2>Projects that have been released released</h2>
+<h2>Active projects</h2>
 
-This is a list of projects I have released over the years.
+This is a list of my actively maintained projects.
 
 ---
 
@@ -25,8 +25,8 @@ This is a list of projects I have released over the years.
 <td width="80%">
 <h2>node-maze-generator</h2>
 
-[https://www.npmjs.com/package/node-maze-generator](NPM) [https://www.github.com/w4ffl35/node-maze-generator](Github)
-         
+[NPM](https://www.npmjs.com/package/node-maze-generator) [Github](https://www.github.com/w4ffl35/node-maze-generator)
+
 Generate perfect mazes with Node using a growing tree algorithm.
 
 </td>
@@ -95,7 +95,7 @@ and then confidently tweets them out to the world where they can one day become 
 <td width="80%">
 <h2>Super Stack Solitaire</h2>
           
-[https://capsizegames.itch.io/super-stack-solitaire](itch.io)
+[itch.io](https://capsizegames.itch.io/super-stack-solitaire)
 
 An 8-bit style solitaire game with an arcade mode. Everything is made by myself using Unity3D, Famitracker (soundfx and music), and C#.
 
@@ -124,18 +124,21 @@ These are projects that are currently inactive but may be of interest to viewers
         </td>
         <td>
           <h2>Wild West Poker</h2>
-		  <p>Released for the CGI game jam this game was developed in 2 weeks.</p>
-		  <p>I have continued to maintain it since its release and will be working on a new version this year.</p>
-		  <hr />
-          <p><strong>Rank 14 out of 115 in May - June 2017 CGAJam</strong></p>
-          <h4>Art: <br />Krystal + Joe</a>
-          <h4>Programming, Sound, Menus, Controls: <br />Joe
-          <h4>Tech:<br />C# / Unity3D</h4>
-        <h4>Platforms</h4>
-            <a href="https://capsizegames.itch.io/wild-west-poker#download"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-            <a href="https://capsizegames.itch.io/wild-west-poker#download"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-            <a href="https://capsizegames.itch.io/wild-west-poker"><img src="https://img.shields.io/badge/-BROWSER-darkgreen?style=for-the-badge" /></a>
-            </td>
+
+[itch.io](https://capsizegames.itch.io/wild-west-poker)
+
+<p>Released for the CGI game jam this game was developed in 2 weeks.</p>
+<p>I have continued to maintain it since its release and will be working on a new version this year.</p>
+<hr />
+<p><strong>Rank 14 out of 115 in May - June 2017 CGAJam</strong></p>
+<h4>Art: <br />Krystal + Joe</a>
+<h4>Programming, Sound, Menus, Controls: <br />Joe
+<h4>Tech:<br />C# / Unity3D</h4>
+<h4>Platforms</h4>
+<a href="https://capsizegames.itch.io/wild-west-poker#download"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+<a href="https://capsizegames.itch.io/wild-west-poker#download"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://capsizegames.itch.io/wild-west-poker"><img src="https://img.shields.io/badge/-BROWSER-darkgreen?style=for-the-badge" /></a>
+</td>
     </tr>
     <tr>
         <td>
