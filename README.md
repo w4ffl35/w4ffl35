@@ -43,7 +43,7 @@ Generate perfect mazes with Node using a growing tree algorithm.
 <td width="80%">
 <h2>JS-KTC</h2>
 
-[NPM](https://www.npmjs.com/package/js-ktc) [github](https://www.github.com/w4ffl35/js-ktc)
+[NPM](https://www.npmjs.com/package/js-ktc) [Github](https://www.github.com/w4ffl35/js-ktc)
          
 Keyword Transposition Cipher javascript library. An extensible implementation of a basic Keyword Transposition Cipher, including Jest tests. 
 
