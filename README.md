@@ -20,7 +20,8 @@ As I dig through old code and find fun projects that I've worked on I will add t
     <tr width="100%">
         <td width="30%">
         
-        ![maze](https://user-images.githubusercontent.com/25737761/186304503-44ccba20-2e67-4761-9501-ec6836066196.png)
+        ![maze](https://user-images.githubusercontent.com/25737761/186305038-feea4200-7140-4bbc-8f3e-0372c0a3a874.png)
+
 
 </td>
 <td width="80%">
