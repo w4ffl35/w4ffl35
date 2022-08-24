@@ -16,6 +16,23 @@ As I dig through old code and find fun projects that I've worked on I will add t
 
 ---
 
+<table width="100%">
+    <tr width="100%">
+        <td width="30%">
+        
+        ![maze](https://user-images.githubusercontent.com/25737761/186304503-44ccba20-2e67-4761-9501-ec6836066196.png)
+
+</td>
+<td width="80%">
+<h2>node-maze-generator</h2>
+
+[https://www.npmjs.com/package/node-maze-generator](NPM) [https://www.github.com/w4ffl35/node-maze-generator](Github)
+         
+Generate perfect mazes with Node using a growing tree algorithm.
+
+</td>
+</tr>
+</table>
 
 <table width="100%">
     <tr width="100%">
@@ -27,7 +44,7 @@ As I dig through old code and find fun projects that I've worked on I will add t
 <td width="80%">
 <h2>JS-KTC</h2>
 
-[https://www.npmjs.com/package/js-ktc](https://www.npmjs.com/package/js-ktc)
+[https://www.npmjs.com/package/js-ktc](NPM) [https://www.github.com/w4ffl35/js-ktc](Github)
          
 Keyword Transposition Cipher javascript library. An extensible implementation of a basic Keyword Transposition Cipher, including Jest tests. This repository was included in the [2020 Github Arcitic Code Vault](https://archiveprogram.github.com/). 
 <br /><img src="https://user-images.githubusercontent.com/25737761/179569560-23c90f8e-c8c2-45fd-bb36-5d1e945437e8.png" width="100px" />
@@ -75,7 +92,7 @@ and then confidently tweets them out to the world where they can one day become 
 <td width="80%">
 <h2>Super Stack Solitaire</h2>
           
-https://capsizegames.itch.io/super-stack-solitaire
+[https://capsizegames.itch.io/super-stack-solitaire](itch.io)
 
 An 8-bit style solitaire game with an arcade mode. Everything is made by myself using Unity3D, Famitracker (soundfx and music), and C#.
 
