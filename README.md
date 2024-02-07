@@ -20,3 +20,4 @@ Self-taught programmer with a journey from QBasic on 80s hardware to modern AI a
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **AI Technologies** | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9AB00?style=flat&logo=huggingface&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 
+The above table highlights my current focus. However I have worked with many technologies over the years, including HTML, CSS, Ruby on Rails, PHP, C++, C, HLSL, MySQL and more.
