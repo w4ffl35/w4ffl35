@@ -4,7 +4,7 @@
 
 ---
 
-Self-taught programmer with a journey from QBasic on 80s hardware to modern AI and game development. Specializing in Python, C#, Unity3D, and Unreal Engine with a passion for open-source, procedurally generated content, and AI. Committed to democratizing technology. Contributions focus on enhancing accessibility and understanding of AI tools. Open to collaboration and innovation.
+Experienced developer with expertise in Python, C#, Unity3D, and Unreal Engine. My work is driven by a passion for open-source projects, procedural content generation, and AI innovation. Focused on making technology accessible and understandable, I contribute to enhancing AI tools and their applications. Eager to collaborate on projects that push the boundaries of technology and open new avenues for creative and practical uses of AI and game development.
 
 ## Current Main Project
 
