@@ -8,7 +8,7 @@ Experienced developer with expertise in Python, C#, Unity3D, and Unreal Engine. 
 
 - **[AI Runner](https://github.com/Capsize-Games/airunner)**: AI Runner is a GUI designed to democratize access to AI technologies, specifically Stable Diffusion and other open-source models. It enables users to run these models on their local hardware without the need for complex installations. This project aims to make cutting-edge AI accessible to a wider audience, providing tools for creativity and exploration without barriers.
 
-## Skills
+## Current Focus
 
 | Category      | Skills |
 |---------------|--------|
