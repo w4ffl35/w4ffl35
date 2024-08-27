@@ -2,11 +2,9 @@
 
 ---
 
-Experienced developer with a background in web development and expertise in Python, C#, Unity3D, and Unreal Engine. My work is driven by a passion for open-source projects, procedural content generation, and AI innovation. Focused on making technology accessible and understandable, I contribute to enhancing AI tools and their applications. Eager to collaborate on projects that push the boundaries of technology and open new avenues for creative and practical uses of AI and game development.
+I make a lot of content.
 
-## Current Main Project
-
-- **[AI Runner](https://github.com/Capsize-Games/airunner)**: AI Runner is a GUI designed to democratize access to AI technologies, specifically Stable Diffusion and other open-source models. It enables users to run these models on their local hardware without the need for complex installations. This project aims to make cutting-edge AI accessible to a wider audience, providing tools for creativity and exploration without barriers.
+---
 
 ## Current Focus
 
