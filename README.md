@@ -1,23 +1,19 @@
-`Software engineer | Web developer | Game developer | AI engineer | Programmer`
-
----
-
-👾 w4ffl35
-💻 Indie game developer | AI Engineer | Designer | Founder of Capsize LLC
+# 👾 w4ffl35
+## 💻 Indie game developer | AI Engineer | Designer | Founder of Capsize LLC
 
 Building offline-first AI-powered apps, games, and creative tools. Specializing in NES-style games, 8-bit art, and open-source software for privacy-conscious users. Passionate about merging creativity with AI to build unique, immersive experiences. Exploring ways to make tech more personal, private, and accessible.
 
-🎮 Current Projects:
+### 🎮 Current Projects:
 
-    AI-powered chatbots and tools
-    Retro-inspired games and comic strips
-    Community-driven, privacy-first applications
+- AI-powered chatbots and tools
+- Retro-inspired games and comic strips
+- Community-driven, privacy-first applications
 
 🌍 Based in Colorado | Always building something new.
 
 ---
 
-## Current Focus
+### Current Focus
 
 | Category      | Skills |
 |---------------|--------|
